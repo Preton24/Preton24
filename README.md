@@ -4,7 +4,7 @@
 
 Building **AI-powered products, intelligent systems, and creative digital experiences.**
 
-🎓 B.E. AI & ML @ JSSATE Bengaluru | B.S. Data Science @ IIT Madras  
+🎓 B.E. AI & ML @ JSSATE Bengaluru (CGPA:9.5) | B.S. Data Science @ IIT Madras  
 🏆 Google Solution Challenge 2026 — **Top 14 Nationwide**
 
 <p>
