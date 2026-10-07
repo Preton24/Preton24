@@ -17,8 +17,6 @@ Building **AI-powered products, intelligent systems, and creative digital experi
   </a>
 </p>
 
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -50,8 +48,6 @@ Building **AI-powered products, intelligent systems, and creative digital experi
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Affinity%20by%20Canva-1B1B1B?style=for-the-badge&logo=affinity&logoColor=white" />
 </p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -87,7 +83,7 @@ A Generative AI application using RAG to retrieve relevant information and provi
 
 **Tech:** `React` `TypeScript` `Node.js` `RAG` `Gemini`
 
----
+
 
 ## 🏆 Achievements
 
