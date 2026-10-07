@@ -1,4 +1,4 @@
-# Hi, I'm Preethi S V 👋
+# Hi, I'm S V Preethi👋
 
 ### AI/ML Engineer • Data Science Student • Full-Stack Developer
 
