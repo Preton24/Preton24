@@ -21,6 +21,9 @@ Building **AI-powered products, intelligent systems, and creative digital experi
   <a href="https://www.linkedin.com/in/s-v-preethi/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="svpreethi.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
 </p>
 
 ## 🛠️ Tech Stack
