@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./girl_cat_room_wide.gif" width="600">
+  <img src="./girl_cat_room_wide.gif" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Preethi 👋</h1>
