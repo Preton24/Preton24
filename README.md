@@ -25,35 +25,15 @@ Building **AI-powered products, intelligent systems, and creative digital experi
 
 ## 🛠️ Tech Stack
 
-### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css&perline=7" />
-</p>
-
-### AI / ML & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perline=7" />
-</p>
-
-### Full-Stack Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi,prisma&perline=7" />
-</p>
-
-### Databases, Cloud & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,aws,vercel&perline=8" />
-</p>
-
-### Design
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,pytorch,tensorflow,opencv,sklearn,react,nextjs,tailwind,nodejs,express,fastapi,prisma,postgres,mysql,mongodb,docker,git,github,aws,vercel,figma,illustrator,photoshop&perline=10&theme=dark" width="500"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Affinity%20by%20Canva-1B1B1B?style=for-the-badge&logo=affinity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Affinity%20by%20Canva-1B1B1B?style=for-the-badge&logo=affinity&logoColor=white" height="28"/>
 </p>
+
 
 ## 🚀 Featured Projects
 
