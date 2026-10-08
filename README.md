@@ -1,6 +1,12 @@
-# Hi, I'm S V Preethi👋
+<p align="center">
+  <img src="./girl_cat_room_wide.gif" width="600">
+</p>
 
-### AI/ML Engineer • Data Science Student • Full-Stack Developer
+<h1 align="center">Hi, I'm Preethi 👋</h1>
+
+<p align="center">
+  AI/ML Developer • Data Science Student • Full-Stack Developer
+</p>
 
 Building **AI-powered products, intelligent systems, and creative digital experiences.**
 
