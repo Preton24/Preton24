@@ -29,7 +29,7 @@ Building **AI-powered products, intelligent systems, and creative digital experi
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,pytorch,tensorflow,opencv,sklearn,react,nextjs,tailwind,nodejs,express,fastapi,prisma,postgres,mysql,mongodb,docker,git,github,aws,vercel,figma,illustrator,photoshop&perline=10&theme=dark" width="500"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql,docker,git,gcp,aws,pytorch,tensorflow,opencv,vercel,figma,illustrator,photoshop" alt="Tech Stack"/>
 </p>
 
 <p>
