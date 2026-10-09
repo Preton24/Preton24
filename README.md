@@ -32,11 +32,6 @@ Building **AI-powered products, intelligent systems, and creative digital experi
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql,docker,git,gcp,aws,pytorch,tensorflow,opencv,vercel,figma,illustrator,photoshop" alt="Tech Stack"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Affinity%20by%20Canva-1B1B1B?style=for-the-badge&logo=affinity&logoColor=white" height="28"/>
-</p>
-
 
 ## 🚀 Featured Projects
 
