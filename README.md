@@ -2,8 +2,6 @@
   <img src="./girl_cat_night_coding.gif" width="600">
 </p>
 
-<h1 align="center">Hi, I'm Preethi 👋</h1>
-
 <p align="center">
   AI/ML Developer • Data Science Student • Full-Stack Developer
 </p>
