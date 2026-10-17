@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./girl_cat_night_coding.gif" width="100">
+  <img src="./girl_cat_night_coding.gif" width="1000">
 </p>
 
 <p align="center">
