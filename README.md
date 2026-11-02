@@ -29,7 +29,7 @@ A wearable-based intelligent care platform designed for proactive elderly safety
 
 **Tech:** `Python` `ML` `React Native` `IoT` `Computer Vision`
 
-**Links:** [GitHub Repo](https://github.com/Preton24/Guardian360App) · [Live Site](https://guardian360-app.vercel.app/)
+**Links:** [GitHub Repo](https://github.com/Preton24/Guardian360App) · [Live Site](https://guardian360-app.vercel.app/) · [Demo Video](https://drive.google.com/file/d/10Q2EAyFFPke_wa_6ivwD59csNQXpjnsX/view?usp=drive_link)
 
 ---
 
